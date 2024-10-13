@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: dettroxx/vitepressdocs
   branch: main # Branch to update (optional; defaults to master) 123
 
