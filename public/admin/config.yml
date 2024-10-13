@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: dettroxx/vitepressdocs
   site_domain: sunny-sorbet-6b4d6e.netlify.app
   branch: main # Branch to update (optional; defaults to master) 123123
