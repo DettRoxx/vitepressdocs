@@ -1,4 +1,8 @@
 import { defineConfig } from 'vitepress'
+import decap, {
+  createFolderCollection,
+  createField,
+} from 'vite-plugin-decap-cms'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -27,5 +31,5 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  }
+  },
 })
