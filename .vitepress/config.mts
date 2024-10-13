@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'ru-RU',
   description: "Docs with DecapCMS",
   cleanUrls: true,
+  base: '/vitepressdocs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
