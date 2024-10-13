@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: dettroxx/vitepressdocs
-  branch: main # Branch to update (optional; defaults to master) 123
+  branch: main # Branch to update (optional; defaults to master)
 
 media_folder: public/img
 public_folder: /img
