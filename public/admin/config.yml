@@ -1,7 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   repo: dettroxx/vitepressdocs
-  site_domain: mellifluous-praline-396627.netlify.app
+  site_domain: beautiful-paletas-2c75cb.netlify.app
   branch: main # Branch to update (optional; defaults to master) 123123
 
 media_folder: public/img
